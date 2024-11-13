@@ -1,0 +1,60 @@
+p{
+     color: black;
+    background-color: rgb(134, 21, 55);
+    padding: 40px; 
+    font-size: 60px;
+}
+
+span{color: rgb(181, 178, 9);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-transform: capitalize;
+font-weight: 500;
+letter-spacing: normal;
+line-height: normal;
+text-align: center; 
+}
+nav{ 
+     background-color: orangered;
+     padding: 40px;
+     margin: 40px;
+}
+.vacation{
+    width: 30%;
+    border: 7;
+    margin: 10;
+    color: black;
+
+}
+.vacation_image{
+    width: 100%;
+    height: 400;
+}
+.vacation_para{
+font-size: 30;
+background-color: bisque;
+}
+
+.vacation_container{
+display: flex ;
+flex-wrap: wrap ;
+justify-content: space-between;
+justify-content: space-around;
+justify-content: space-evenly;
+}
+.d{
+  border-radius: 30px;
+  width: 30px;
+  height: 20px;
+
+}
+ .navigation{
+    display: flex;
+    justify-content: space-between;
+ } 
+ .nav{
+background-color: aqua;
+padding: 5px;
+margin-top: 20px;
+width: 60px;
+ }
+   

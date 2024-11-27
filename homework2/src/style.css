@@ -1,0 +1,40 @@
+.container img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+     
+}
+.container{
+    display: flex; 
+    justify-content: space-around;
+    gap: 50px;
+
+}
+.Name{
+    width: 50%;
+}
+h3{
+    color: palevioletred;
+}
+ h1{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(183, 105, 145);
+    text-align: center;
+}
+.footer{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 100px;
+}
+.footer img{
+    height: 300px;
+    width: 300x;
+    
+}
+.yellow{
+    background-color: palevioletred;
+}
+.blueviolet{
+    background-color: blueviolet;
+}
